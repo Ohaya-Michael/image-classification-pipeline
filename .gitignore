@@ -1,6 +1,6 @@
 __pycache__
 flower_photos
-aws_secret
+aws_secret.py
 trainingAndInference4rmDir.ipynb
 
 
